@@ -17,8 +17,8 @@ This project was derived from Tim Ruscica techwithtim. The main changes that I h
 2- Go inside main.py <br />
 3- Go to the terminal while making sure Qdrant is running in the background<br />
 4- Enter this code "uv run uvicorn main:app"   <br />    
-5- Enter this second command "npx inngest-cli@latest dev -u http://127.0.0.1:8000/api/inngest --no-discovery" to see the data load<br />              
-6- Go to any browser of your choice and enter http://localhost:8288/  <br />
+5- Enter this second command "npx inngest-cli@latest dev -u http://127.0.0.1:8000/api/inngest --no-discovery" to see the data load <br />              
+6- Go to any browser of your choice and enter http://localhost:8288/ <br />
 7- On your left, look at Mangea and choose apps under it<br />
 8- You will see "see functions."<br />
 9- First choice InngestPDF and put the path of your PDF file " "data": "Yourfile path" " Note you have to put double // or it will not count the single /, then invoke <br />
