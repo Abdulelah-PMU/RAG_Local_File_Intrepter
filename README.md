@@ -1,4 +1,4 @@
-# RAG_Local_File_Intrepter
+# RAG_Local_File_Intrepter <br />
 This project was derived from Tim Ruscica techwithtim. The main changes that I have made are the following
 1- The AI agent uses Gemini rather than Chat GPT
 2- Inngest_Inspection.py, which will inspect all available modules within Inngest to be used
